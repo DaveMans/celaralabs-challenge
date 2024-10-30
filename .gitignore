@@ -1,0 +1,42 @@
+# Ignore Visual Studio specific files
+.vscode/
+.vs/
+*.user
+*.suo
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Ignore Rider IDE files
+.idea/
+.idea_modules/
+*.sln.iml
+
+# Ignore .NET-specific files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.mdb
+*.config
+
+# Ignore publish output
+publish/
+out/
+
+# Ignore user-specific files
+*.rsuser
+*.userprefs
+*.userosscache
+
+# DotNet CLI restore cache
+.nuget/packages/
