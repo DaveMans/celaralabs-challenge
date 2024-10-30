@@ -12,7 +12,7 @@ This approach is optimized for performance, ensuring fast and efficient word sea
 
 ## Pre-requisites
 
-- Install [NET 8]([https://www.example.com](https://dotnet.microsoft.com/es-es/download/dotnet/8.0)
+- Install [NET 8](https://dotnet.microsoft.com/es-es/download/dotnet/8.0)
 
 ## Executions in IDEs
 
