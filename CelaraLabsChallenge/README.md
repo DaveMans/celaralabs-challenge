@@ -1,4 +1,6 @@
-## Challenge .Net - CelaraLabs
+# Challenge .Net - CelaraLabs - NET 8
+
+## Explanation of the proposed solution
 
 The `WordFinder` class searches for words from a list in a character matrix, locating them either horizontally or vertically. It:
 
